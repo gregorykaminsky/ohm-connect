@@ -11,7 +11,7 @@ Sets up the variables for the terraform script.
 Loads the data into the Redshift database. The queries to load queries is done in "Load Data.ipynb" file.
 
 #### Answering questions:
-Part 2:
+Part 2: \
 a. The analysis is in the spreadsheet \
 b. Visualizations are in the spreadsheet \
 c. The results are in top_two_performers.csv file, analysis is done in Analysis.ipynb  \
